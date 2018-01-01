@@ -1,0 +1,11 @@
+{
+  "name": "time_keeper",
+  "version": "1.0.0",
+  "description": "Electron App for Windows to Log Time Taken On A Specific Taks",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Elo",
+  "license": "ISC"
+}
